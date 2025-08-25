@@ -1,0 +1,3 @@
+SAIF 212CS03A1 4 English 99 AICT 98 PFLab 99 Calculus 99 Physics 97 
+Huzaifa 212CS02A4 1 English 90 AICT 91 PFLab 92 Calculus 85 Physics 67 
+Haider 212CS04A7 1 English 90 AICT 94 PFLab 95 Calculus 97 Physics 79 
