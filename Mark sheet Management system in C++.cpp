@@ -4,7 +4,7 @@
 #include <iomanip>
 using namespace std;
 
-// Structure to store student information
+// Structure to store students information
 struct Student {
     string name;
     string registrationNumber;
@@ -284,3 +284,4 @@ string calculateGrade(double percentage) {
     else
         return "F";
 }
+
